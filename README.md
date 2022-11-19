@@ -1,13 +1,29 @@
-
-<!-- [![MasterHead](https://moosend.com/wp-content/uploads/2021/09/How-to-insert-a-gif-into-an-email.gif)](https://kanishbodhwani.io) -->
-
 <h1 align="center">Hi 👋, I'm Ailya Fatima</h1>
 <h3 align="center">A passionate Software Developer </h3>
 <img align="right" alt="Coding" src="https://media.istockphoto.com/id/1313852977/vector/female-software-developer-flat-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZAChej01IYa2v1VpvIe5S1qD5wx_fdOCXvrL2d0v95A=" />
 
 <p align="left" font-size="32px">
+<br><br><br><br>
 
 </p>
+
+
+```js
+const name = 'Ailya';
+Developer dev = new Developer(name);
+while(dev.isCoding())
+{
+  if (dev.is_stuck()) {
+    dev.openStackOverFlow();
+    dev.openDocumentation();
+    dev.learn();
+    dev.apply();
+   }
+  dev.drinkCoffee();
+}
+```
+
+<br><br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliana-kazmi" alt="trophies" /></a> </p>
 
