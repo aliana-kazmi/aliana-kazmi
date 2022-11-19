@@ -3,7 +3,7 @@
 <img align="right" height="auto" width="400" alt="Coding" src="https://media.istockphoto.com/id/1313852977/vector/female-software-developer-flat-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZAChej01IYa2v1VpvIe5S1qD5wx_fdOCXvrL2d0v95A=" />
 
 <p align="left">
-<br><br>
+<br>
 
 </p>
 
