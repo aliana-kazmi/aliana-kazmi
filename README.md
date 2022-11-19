@@ -33,7 +33,7 @@ while(dev.isCoding())
 
 - 🌱 I’m currently learning **Nextjs, React** 
 
-- 👨‍💻 All of my projects are available at []()
+<!-- - 👨‍💻 All of my projects are available at []() -->
 
 - 📝 I regularly write articles on [https://hashnode.com/@alianaFatima](https://hashnode.com/@alianaFatima)
 
@@ -41,7 +41,7 @@ while(dev.isCoding())
 
 - 📫 How to reach me **ailyafatima572022@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U3R9a5TJ9hi7pigV_xXsRh5RWZBtiHs7/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
