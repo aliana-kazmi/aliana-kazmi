@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ailya Fatima</h1>
 <h3 align="center">A passionate Software Developer </h3>
-<img align="right" alt="Coding" src="https://media.istockphoto.com/id/1313852977/vector/female-software-developer-flat-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZAChej01IYa2v1VpvIe5S1qD5wx_fdOCXvrL2d0v95A=" />
+<img align="right" height="auto" width="400" alt="Coding" src="https://media.istockphoto.com/id/1313852977/vector/female-software-developer-flat-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZAChej01IYa2v1VpvIe5S1qD5wx_fdOCXvrL2d0v95A=" />
 
-<p align="left" font-size="32px">
-<br><br><br><br>
+<p align="left">
+<br><br>
 
 </p>
 
