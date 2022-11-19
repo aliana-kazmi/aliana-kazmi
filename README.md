@@ -31,7 +31,7 @@ while(dev.isCoding())
 
 - 👀 I’m interested in **Web and Software development**
 
-- 🌱 I’m currently learning **Nextjs, React** 
+- 🌱 I’m currently learning **Cloud engineering, Nextjs, React** 
 
 <!-- - 👨‍💻 All of my projects are available at []() -->
 
