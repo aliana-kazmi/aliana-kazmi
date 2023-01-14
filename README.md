@@ -43,7 +43,7 @@ while(dev.isCoding())
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1V0MdHN84e5r5CVm9cPuqB8VNN0MF0OXW/view?usp=share_link)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
