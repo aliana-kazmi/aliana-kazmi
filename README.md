@@ -27,7 +27,7 @@ while(dev.isCoding())
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliana-kazmi" alt="trophies" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bodhwanikanish" target="blank"><img src="https://img.shields.io/twitter/follow/ailya_fatima75?logo=twitter&style=for-the-badge" alt="bodhwanikanish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ailya_fatima75" target="blank"><img src="https://img.shields.io/twitter/follow/ailya_fatima75?logo=twitter&style=for-the-badge" alt="ailyafatima" /></a> </p>
 
 - 👀 I’m interested in **Software, Web, Cloud and UI/UX Development**
 
@@ -41,7 +41,7 @@ while(dev.isCoding())
 
 - 📫 How to reach me **ailyafatima572022@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1V0MdHN84e5r5CVm9cPuqB8VNN0MF0OXW/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/17qTuz0zfNB3ZxGV-m4Xb5QiRdn86Cy4l/edit?usp=share_link&ouid=100591838850217799971&rtpof=true&sd=true)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -49,7 +49,7 @@ while(dev.isCoding())
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ailya-fatima-b570a6203/" target="_blank">
+<a href="https://linkedin.com/in/ailya-fatima/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/ailya_fatima75" target="_blank">
