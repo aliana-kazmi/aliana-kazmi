@@ -41,7 +41,7 @@ while(dev.isCoding())
 
 - 📫 How to reach me **ailyafatima572022@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/17qTuz0zfNB3ZxGV-m4Xb5QiRdn86Cy4l/edit?usp=share_link&ouid=100591838850217799971&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_1A6IzcP07YWVLiaNQOCG2VlQobAuwNR/view?usp=share_link)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
