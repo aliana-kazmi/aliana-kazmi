@@ -33,7 +33,7 @@ while(dev.isCoding())
 
 - 🌱 I’m currently learning **Nextjs, React** 
 
-<!-- - 👨‍💻 All of my projects are available at [https://ailya-codes.netlify.app/](https://ailya-codes.netlify.app/) -->
+- 👨‍💻 All of my projects are available at [https://ailya-codes.netlify.app/](https://ailya-codes.netlify.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@alianaFatima](https://hashnode.com/@alianaFatima)
 
@@ -41,7 +41,7 @@ while(dev.isCoding())
 
 - 📫 How to reach me **ailyafatima572022@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_1A6IzcP07YWVLiaNQOCG2VlQobAuwNR/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z-yt0v2QqTdJ1Oq0iHUEKbI5Uk4qeJz_/view?usp=sharing)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
