@@ -35,7 +35,7 @@ while(dev.isCoding())
 
 - 👨‍💻 All of my projects are available at [https://ailya-codes.netlify.app/](https://ailya-codes.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@alianaFatima](https://hashnode.com/@alianaFatima)
+<!-- - 📝 I regularly write articles on [https://hashnode.com/@alianaFatima](https://hashnode.com/@alianaFatima)-->
 
 - 💬 Ask me about **Python, Django, Flask, Java, SQL, MongoDB, Figma, GCP**
 
