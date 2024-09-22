@@ -14,7 +14,6 @@ Developer dev = new Developer(name);
 while(dev.isCoding())
 {
   if (dev.is_stuck()) {
-    dev.openStackOverFlow();
     dev.openDocumentation();
     dev.learn();
     dev.apply();
